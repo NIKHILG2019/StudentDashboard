@@ -1,66 +1,17 @@
 .topcontainer {
-    margin:10px;
-    position : relative;
-    background-color: powderblue;
-    padding: 10px;
-    height: 300px;
-    border-radius: 20px;
-    
+    text-align: center;
+   margin:10px;
+   padding: 10px;
+   border-radius: 20px; 
+   background-color: powderblue;
 }
-.subject_names {
-    top: 10%;
-    position: absolute;
-
-}
-.faculty_names {
-    top: 50%;
-
-    position: absolute;
-
-}
-.subject_img {
-    left: 10%;
-    top : 30%;
-    float: left;
-    position : absolute;
-}
-.Status {
-    position : absolute;
-    bottom:0%;
-}
-.details-container {
-    padding-left: 2em;
-    position: absolute;
-    left: 20%;
-    width: 30%;
-    height: 60%;
-}
-.image-container {
-    float: left;
-}
-.previous-four-records {
-    position: absolute;
-    left: 55%;
-    top: 5%;
+body {
+   
 }
 .h3 {
-    position: absolute;
-    top: 35%;
-    left: 35%;
+   
+   margin-top: 30%;
 }
-.percentage {
-    border-radius: 50% 50% 50% 50% / 50% 50% 50% 50%;
-    text-align: center;
-    position: absolute;
-    right:5%;
-    top: 30%;
-    width: 10%;
-    height:45%;
-}
-a {
-    
-    text-decoration: none;
-}
-nav {
-    position: sticky;
+.percentage-container {
+   position: relative;
 }
