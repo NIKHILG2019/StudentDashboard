@@ -1,6 +1,9 @@
 .information {
     padding-left: 10%;
 }
-.form {
+.containerform {
     padding-left: 10%;
+}
+.link {
+    text-decoration: none;
 }
