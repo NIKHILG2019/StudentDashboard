@@ -25,11 +25,9 @@
   border-radius: 5px;
   display: flexbox;
   background-color: #fff;
-  border-radius: 40px;
-  background: #d0e2ec;
-  border-radius: 40px;
-  background: #e3edf2;
-  box-shadow: inset 31px 31px 62px #91989b, inset -31px -31px 62px #ffffff;
+  border-radius: 50px;
+  background: #00adb5;
+  box-shadow: inset 16px 16px 32px #008a91, inset -16px -16px 32px #00d0d9;
   /* -webkit-box-shadow: -3px 3px 15px -6px rgba(0, 0, 0, 0.49);
   -moz-box-shadow: -3px 3px 15px -6px rgba(0, 0, 0, 0.49);
   box-shadow: -3px 3px 15px -6px rgba(0, 0, 0, 0.49); */
