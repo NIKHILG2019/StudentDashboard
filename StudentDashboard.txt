@@ -1,6 +1,6 @@
 Header and Footer. (Nikhil)
 Leave Application. (Nikhil)
-progress Status (Nikhil)
+progress Status (Vaibhav)
 Teacher Registeration (Sparsh). (30/09/2020)
 Teacher Dashboard. (Think)
 See more animation. (Student Dashboard)
