@@ -1,9 +1,9 @@
-Header and Footer. (Nikhil)
-Leave Application. (Nikhil)
-progress Status (Vaibhav)
-Teacher Registeration (Sparsh). (30/09/2020)
-Teacher Dashboard. (Think)
-See more animation. (Student Dashboard)
+Student/Teacher Profile (Vaibhav) (05/10/2020)
+Teacher side Mark Attendance (Vaibhav) (05/10/2020)
+Teacher side Approval of leave System (Nikhil) (05/10/2020)
+Header and Footer. (Nikhil) (05/10/2020)
+Leave Application. (Nikhil) (05/10/2020)
+Teacher side Analysis of each student and class (Dashboard) (Sparsh) (05/10/2020)
 Student Attendance Calendar.
 How many classes attended out of total.
 Bar graph Class avg. and student attendance (After Database) .
